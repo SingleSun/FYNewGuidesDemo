@@ -1,0 +1,14 @@
+//
+//  FYNewGuides.pch
+//  FYNewGuideDemo
+//
+//  Created by 樊杨 on 2018/10/23.
+//  Copyright © 2018年 樊杨. All rights reserved.
+//
+
+#ifndef FYNewGuides_pch
+#define FYNewGuides_pch
+
+#import "FYConst.h"
+
+#endif /* FYNewGuides_pch */
